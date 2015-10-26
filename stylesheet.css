@@ -1,0 +1,42 @@
+body {
+	color: Black;
+	font-family: 'Open Sans',
+	Arial,sans-sarif;
+	text-align: center;
+	display: block;
+
+}
+#container {
+	margin-left: auto;
+	margin-right:auto;
+	width: 100%;
+}
+#heading {
+	background-color: #E0CACA;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+h1{
+	font-size: 24pt;
+	font-family: ;
+	text-transform: uppercase;
+}
+.pink-text {
+	color: #D936B6;
+	font-size: 24pt;
+}
+hr {
+	background-color: white;
+	border: none;
+	border-radius: 10px;
+	height: 6px;
+	margin: 30px auto 10px auto;
+	width: auto;
+}
+ul {
+	list-style-position: inside;
+	list-style-type: circle;
+	padding-right: 300px;
+	padding-left: 300px;
+	text-align: left;
+}
